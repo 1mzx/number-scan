@@ -8,7 +8,7 @@ print("""
  \_____| |_____|     \/        |_|   
  <!!> Follow me in instagram @givt_ops""")
 print("-----------------------------------")
-print("<?> Enter Number Like This:530000000 <?>")
+print("<?> Enter Number Like This:553148276 <?>")
 Target = input("<%> Enter phone Number:")
 def info():
     head = {
